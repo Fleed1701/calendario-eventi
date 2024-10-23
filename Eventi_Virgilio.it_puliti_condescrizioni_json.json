@@ -133,5 +133,141 @@
         "Orario": "21:00",
         "Luogo": "Teatro di Fiesole\nLargo Piero Farulli 1,\n50014 FIESOLE (FI)",
         "Prezzo": "20.00 € - I Settore\n15.00 € - Ii Settore"
-    }
-]
+    },
+
+    {
+        "Titolo evento": "Tornano i concerti di Micat In Vertice",
+        "Descrizione di Virgilio.it": "Edizione 2024/2025\n\nIl programma della Stagione 2024/2025 proporrà 14 concerti, dal 22 novembre al 9 maggio 2025, negli splendidi Teatri di Siena, grazie alla rinnovata sinergia tra l’Accademia Chigiana e il Comune di Siena, a cui si aggiunge il concerto del 23 dicembre nella magnifica cornice della Cattedrale di Siena. Protagonisti grandi star internazionali, giovani talenti e nuove promesse della scena musicale internazionale, che si alterneranno in un cartellone che offrirà al pubblico e agli abbonati della Stagione concertistica dell’Accademia Musicale Chigiana progetti esclusivi e serate che dalla grande musica del barocco spaziano fino alle nuove sonorità. Per il programma dettagliato consulta il sit ufficiale della manifestazione.",
+        "Descrizione di Groq": "\"Ritorna la magia dei concerti di Micat In Vertice: immergiti nella suggestiva atmosfera del Teatro dei Rinnovati, il 22 Novembre a Siena. Scegli la coinvolgente intimità della Cattedrale o lasciati incantare dai palchi del Teatro Rozzi, accompagnato da un'esperienza musicale indimenticabile. Non perdere questo appuntamento con la musica dal vivo!\"",
+        "Data": "22/11",
+        "Orario": "21:00",
+        "Luogo": "Teatro dei Rinnovati\nPiazza del Campo, Siena (SI)",
+        "Prezzo": "Ingresso Libero Cattedrale\n25.00 € - Intero Teatro Rozzi\n18.00 € - Palchi Teatro Rozzi"
+    },
+    {
+        "Titolo evento": "Tornano i concerti di Micat In Vertice",
+        "Descrizione di Virgilio.it": "Edizione 2024/2025\n\nIl programma della Stagione 2024/2025 proporrà 14 concerti, dal 22 novembre al 9 maggio 2025, negli splendidi Teatri di Siena, grazie alla rinnovata sinergia tra l’Accademia Chigiana e il Comune di Siena, a cui si aggiunge il concerto del 23 dicembre nella magnifica cornice della Cattedrale di Siena. Protagonisti grandi star internazionali, giovani talenti e nuove promesse della scena musicale internazionale, che si alterneranno in un cartellone che offrirà al pubblico e agli abbonati della Stagione concertistica dell’Accademia Musicale Chigiana progetti esclusivi e serate che dalla grande musica del barocco spaziano fino alle nuove sonorità. Per il programma dettagliato consulta il sit ufficiale della manifestazione.",
+        "Descrizione di Groq": "\"Ritorna la magia di Micat In Vertice: lasciati incantare da un'esperienza di musica indimenticabile nella splendida cornice del Teatro dei Rozzi. Scegli tra la suggestiva Cattedrale o i preziosi Palchi, e vivi una serata di emozioni a partire da soli 18€. L'ingresso è libero per la Cattedrale, ma affrettati, i posti sono limitati!\"",
+        "Data": "29/11",
+        "Orario": "21:00",
+        "Luogo": "Teatro dei Rozzi\nPiazza dell' Indipendenza 15,\n53100 SIENA (SI)",
+        "Prezzo": "Ingresso Libero Cattedrale\n25.00 € - Intero Teatro Rozzi\n18.00 € - Palchi Teatro Rozzi"
+    },
+    {
+        "Titolo evento": "Tornano i concerti di Micat In Vertice",
+        "Descrizione di Virgilio.it": "Edizione 2024/2025\n\nIl programma della Stagione 2024/2025 proporrà 14 concerti, dal 22 novembre al 9 maggio 2025, negli splendidi Teatri di Siena, grazie alla rinnovata sinergia tra l’Accademia Chigiana e il Comune di Siena, a cui si aggiunge il concerto del 23 dicembre nella magnifica cornice della Cattedrale di Siena. Protagonisti grandi star internazionali, giovani talenti e nuove promesse della scena musicale internazionale, che si alterneranno in un cartellone che offrirà al pubblico e agli abbonati della Stagione concertistica dell’Accademia Musicale Chigiana progetti esclusivi e serate che dalla grande musica del barocco spaziano fino alle nuove sonorità. Per il programma dettagliato consulta il sit ufficiale della manifestazione.",
+        "Descrizione di Groq": "\"Preparati a un'esperienza musicale indimenticabile con il ritorno dei concerti di Micat In Vertice al Teatro dei Rozzi di Siena. Lasciati avvolgere dal suono unico di questo artista mentre si esibisce nella splendida cornice del teatro. Scegli tra la suggestiva Cattedrale a ingresso libero o i palchi con vista privilegiata. Non perdere l'opportunità di vivere questa magica serata!\"",
+        "Data": "4/12",
+        "Orario": "21:00",
+        "Luogo": "Teatro dei Rozzi\nPiazza dell' Indipendenza 15,\n53100 SIENA (SI)",
+        "Prezzo": "Ingresso Libero Cattedrale\n25.00 € - Intero Teatro Rozzi\n18.00 € - Palchi Teatro Rozzi"
+    },
+    {
+        "Titolo evento": "Tornano i concerti di Micat In Vertice",
+        "Descrizione di Virgilio.it": "Edizione 2024/2025\n\nIl programma della Stagione 2024/2025 proporrà 14 concerti, dal 22 novembre al 9 maggio 2025, negli splendidi Teatri di Siena, grazie alla rinnovata sinergia tra l’Accademia Chigiana e il Comune di Siena, a cui si aggiunge il concerto del 23 dicembre nella magnifica cornice della Cattedrale di Siena. Protagonisti grandi star internazionali, giovani talenti e nuove promesse della scena musicale internazionale, che si alterneranno in un cartellone che offrirà al pubblico e agli abbonati della Stagione concertistica dell’Accademia Musicale Chigiana progetti esclusivi e serate che dalla grande musica del barocco spaziano fino alle nuove sonorità. Per il programma dettagliato consulta il sit ufficiale della manifestazione.",
+        "Descrizione di Groq": "\"Rivivi la magia della musica classica nel maestoso Duomo di Siena, mentre Micat In Vertice riporta in vita le melodie di epoche passate. Goditi lo splendore di un'esperienza indimenticabile, con ingresso gratuito in Cattedrale o prenota i tuoi posti al Teatro Rozzi per una serata di alto livello culturale. Non mancare!\"",
+        "Data": "23/12",
+        "Orario": "21:00",
+        "Luogo": "Duomo di Siena - Cattedrale\nPiazza del Duomo,\n53100 SIENA (SI)",
+        "Prezzo": "Ingresso Libero Cattedrale\n25.00 € - Intero Teatro Rozzi\n18.00 € - Palchi Teatro Rozzi"
+    },
+    {
+        "Titolo evento": "Tornano i concerti di Micat In Vertice",
+        "Descrizione di Virgilio.it": "Edizione 2024/2025\n\nIl programma della Stagione 2024/2025 proporrà 14 concerti, dal 22 novembre al 9 maggio 2025, negli splendidi Teatri di Siena, grazie alla rinnovata sinergia tra l’Accademia Chigiana e il Comune di Siena, a cui si aggiunge il concerto del 23 dicembre nella magnifica cornice della Cattedrale di Siena. Protagonisti grandi star internazionali, giovani talenti e nuove promesse della scena musicale internazionale, che si alterneranno in un cartellone che offrirà al pubblico e agli abbonati della Stagione concertistica dell’Accademia Musicale Chigiana progetti esclusivi e serate che dalla grande musica del barocco spaziano fino alle nuove sonorità. Per il programma dettagliato consulta il sit ufficiale della manifestazione.",
+        "Descrizione di Groq": "\"Preparatevi a un'esperienza indimenticabile! Il pluripremiato ensemble Micat In Vertice ritorna al Teatro dei Rozzi di Siena il 07 Gen. Godetevi un'atmosfera magica nella Cattedrale con ingresso gratuito o prenotate i palchi del Teatro Rozzi a partire da 18€. Non perdete l'occasione di ascoltare la loro musica straordinaria dal vivo!\"",
+        "Data": "7/1",
+        "Orario": "21:00",
+        "Luogo": "Teatro dei Rozzi\nPiazza dell' Indipendenza 15,\n53100 SIENA (SI)",
+        "Prezzo": "Ingresso Libero Cattedrale\n25.00 € - Intero Teatro Rozzi\n18.00 € - Palchi Teatro Rozzi"
+    },
+    {
+        "Titolo evento": "Tornano i concerti di Micat In Vertice",
+        "Descrizione di Virgilio.it": "Edizione 2024/2025\n\nIl programma della Stagione 2024/2025 proporrà 14 concerti, dal 22 novembre al 9 maggio 2025, negli splendidi Teatri di Siena, grazie alla rinnovata sinergia tra l’Accademia Chigiana e il Comune di Siena, a cui si aggiunge il concerto del 23 dicembre nella magnifica cornice della Cattedrale di Siena. Protagonisti grandi star internazionali, giovani talenti e nuove promesse della scena musicale internazionale, che si alterneranno in un cartellone che offrirà al pubblico e agli abbonati della Stagione concertistica dell’Accademia Musicale Chigiana progetti esclusivi e serate che dalla grande musica del barocco spaziano fino alle nuove sonorità. Per il programma dettagliato consulta il sit ufficiale della manifestazione.",
+        "Descrizione di Groq": "\"Ritorna la magia di Micat In Vertice: immergiti nel suono della musica dal vivo in un'atmosfera incantevole, al Teatro dei Rozzi di Siena. Scegli tra la suggestiva Cattedrale ad ingresso libero o l'intimità del Teatro Rozzi a soli 25€ (intero) o 18€ (palchi). Non perdere l'occasione di vivere un'esperienza indimenticabile!\"",
+        "Data": "10/1",
+        "Orario": "21:00",
+        "Luogo": "Teatro dei Rozzi\nPiazza dell' Indipendenza 15,\n53100 SIENA (SI)",
+        "Prezzo": "Ingresso Libero Cattedrale\n25.00 € - Intero Teatro Rozzi\n18.00 € - Palchi Teatro Rozzi"
+    },
+    {
+        "Titolo evento": "Tornano i concerti di Micat In Vertice",
+        "Descrizione di Virgilio.it": "Edizione 2024/2025\n\nIl programma della Stagione 2024/2025 proporrà 14 concerti, dal 22 novembre al 9 maggio 2025, negli splendidi Teatri di Siena, grazie alla rinnovata sinergia tra l’Accademia Chigiana e il Comune di Siena, a cui si aggiunge il concerto del 23 dicembre nella magnifica cornice della Cattedrale di Siena. Protagonisti grandi star internazionali, giovani talenti e nuove promesse della scena musicale internazionale, che si alterneranno in un cartellone che offrirà al pubblico e agli abbonati della Stagione concertistica dell’Accademia Musicale Chigiana progetti esclusivi e serate che dalla grande musica del barocco spaziano fino alle nuove sonorità. Per il programma dettagliato consulta il sit ufficiale della manifestazione.",
+        "Descrizione di Groq": "\"Ritorna la magia di Micat In Vertice: immergiti in una serata indimenticabile di musica dal vivo nel suggestivo Teatro dei Rozzi di Siena. Scegli tra la cornice maestosa della Cattedrale o la vista mozzafiato dei palchi del teatro. Il 24 Gen, preparati a lasciarti trasportare dal suono unico di Micat In Vertice. Ingresso libero alla Cattedrale, €25 intero Teatro Rozzi, €18 palchi.\"",
+        "Data": "24/1",
+        "Orario": "21:00",
+        "Luogo": "Teatro dei Rozzi\nPiazza dell' Indipendenza 15,\n53100 SIENA (SI)",
+        "Prezzo": "Ingresso Libero Cattedrale\n25.00 € - Intero Teatro Rozzi\n18.00 € - Palchi Teatro Rozzi"
+    },
+    {
+        "Titolo evento": "Tornano i concerti di Micat In Vertice",
+        "Descrizione di Virgilio.it": "Edizione 2024/2025\n\nIl programma della Stagione 2024/2025 proporrà 14 concerti, dal 22 novembre al 9 maggio 2025, negli splendidi Teatri di Siena, grazie alla rinnovata sinergia tra l’Accademia Chigiana e il Comune di Siena, a cui si aggiunge il concerto del 23 dicembre nella magnifica cornice della Cattedrale di Siena. Protagonisti grandi star internazionali, giovani talenti e nuove promesse della scena musicale internazionale, che si alterneranno in un cartellone che offrirà al pubblico e agli abbonati della Stagione concertistica dell’Accademia Musicale Chigiana progetti esclusivi e serate che dalla grande musica del barocco spaziano fino alle nuove sonorità. Per il programma dettagliato consulta il sit ufficiale della manifestazione.",
+        "Descrizione di Groq": "\"Preparatevi a una serata indimenticabile con il ritorno dei concerti di Micat In Vertice al Teatro dei Rozzi di Siena. Godetevi un'acustica straordinaria e un'esperienza intima nella cattedrale o scegliete i palchi per un'esperienza ad alta quota! Ingresso libero in cattedrale o prenotate i vostri posti al teatro. Non mancate!\"",
+        "Data": "21/2",
+        "Orario": "21:00",
+        "Luogo": "Teatro dei Rozzi\nPiazza dell' Indipendenza 15,\n53100 SIENA (SI)",
+        "Prezzo": "Ingresso Libero Cattedrale\n25.00 € - Intero Teatro Rozzi\n18.00 € - Palchi Teatro Rozzi"
+    },
+    {
+        "Titolo evento": "Tornano i concerti di Micat In Vertice",
+        "Descrizione di Virgilio.it": "Edizione 2024/2025\n\nIl programma della Stagione 2024/2025 proporrà 14 concerti, dal 22 novembre al 9 maggio 2025, negli splendidi Teatri di Siena, grazie alla rinnovata sinergia tra l’Accademia Chigiana e il Comune di Siena, a cui si aggiunge il concerto del 23 dicembre nella magnifica cornice della Cattedrale di Siena. Protagonisti grandi star internazionali, giovani talenti e nuove promesse della scena musicale internazionale, che si alterneranno in un cartellone che offrirà al pubblico e agli abbonati della Stagione concertistica dell’Accademia Musicale Chigiana progetti esclusivi e serate che dalla grande musica del barocco spaziano fino alle nuove sonorità. Per il programma dettagliato consulta il sit ufficiale della manifestazione.",
+        "Descrizione di Groq": "\"Preparatevi a un'esperienza musicale indimenticabile con il ritorno dei concerti di Micat In Vertice! Godetevi un'atmosfera magica nella splendida cornice del Teatro dei Rozzi di Siena. Scegliete tra la suggestiva Cattedrale a ingresso libero o concedetevi un posto esclusivo in Teatro Rozzi o sui suoi Palchi. Non lasciatevi sfuggire questa straordinaria opportunità!\"",
+        "Data": "7/3",
+        "Orario": "21:00",
+        "Luogo": "Teatro dei Rozzi\nPiazza dell' Indipendenza 15,\n53100 SIENA (SI)",
+        "Prezzo": "Ingresso Libero Cattedrale\n25.00 € - Intero Teatro Rozzi\n18.00 € - Palchi Teatro Rozzi"
+    },
+    {
+        "Titolo evento": "Tornano i concerti di Micat In Vertice",
+        "Descrizione di Virgilio.it": "Edizione 2024/2025\n\nIl programma della Stagione 2024/2025 proporrà 14 concerti, dal 22 novembre al 9 maggio 2025, negli splendidi Teatri di Siena, grazie alla rinnovata sinergia tra l’Accademia Chigiana e il Comune di Siena, a cui si aggiunge il concerto del 23 dicembre nella magnifica cornice della Cattedrale di Siena. Protagonisti grandi star internazionali, giovani talenti e nuove promesse della scena musicale internazionale, che si alterneranno in un cartellone che offrirà al pubblico e agli abbonati della Stagione concertistica dell’Accademia Musicale Chigiana progetti esclusivi e serate che dalla grande musica del barocco spaziano fino alle nuove sonorità. Per il programma dettagliato consulta il sit ufficiale della manifestazione.",
+        "Descrizione di Groq": "\"Preparatevi a essere incantati mentre Micat In Vertice riporta la musica dal vivo sul palco del Teatro dei Rozzi di Siena. Scegliete tra l'intimità della Cattedrale con ingresso libero o la magnifica acustica del Teatro Rozzi o dei suoi palchi. Non perdete questa esperienza indimenticabile!\"",
+        "Data": "14/3",
+        "Orario": "21:00",
+        "Luogo": "Teatro dei Rozzi\nPiazza dell' Indipendenza 15,\n53100 SIENA (SI)",
+        "Prezzo": "Ingresso Libero Cattedrale\n25.00 € - Intero Teatro Rozzi\n18.00 € - Palchi Teatro Rozzi"
+    },
+    {
+        "Titolo evento": "Tornano i concerti di Micat In Vertice",
+        "Descrizione di Virgilio.it": "Edizione 2024/2025\n\nIl programma della Stagione 2024/2025 proporrà 14 concerti, dal 22 novembre al 9 maggio 2025, negli splendidi Teatri di Siena, grazie alla rinnovata sinergia tra l’Accademia Chigiana e il Comune di Siena, a cui si aggiunge il concerto del 23 dicembre nella magnifica cornice della Cattedrale di Siena. Protagonisti grandi star internazionali, giovani talenti e nuove promesse della scena musicale internazionale, che si alterneranno in un cartellone che offrirà al pubblico e agli abbonati della Stagione concertistica dell’Accademia Musicale Chigiana progetti esclusivi e serate che dalla grande musica del barocco spaziano fino alle nuove sonorità. Per il programma dettagliato consulta il sit ufficiale della manifestazione.",
+        "Descrizione di Groq": "\"Preparatevi a un'esperienza musicale indimenticabile: Micat In Vertice torna sul palco del Teatro dei Rozzi di Siena il 21 Marzo! Godetevi le suggestive melodie dal vivo nella maestosa Cattedrale con ingresso libero, o scegliete i posti a sedere nel teatro o sui palchi per un'esperienza ad altissimo livello. Non perdete l'occasione di vivere un'atmosfera unica, ricca di emozioni e suoni straordinari!\"",
+        "Data": "21/3",
+        "Orario": "21:00",
+        "Luogo": "Teatro dei Rozzi\nPiazza dell' Indipendenza 15,\n53100 SIENA (SI)",
+        "Prezzo": "Ingresso Libero Cattedrale\n25.00 € - Intero Teatro Rozzi\n18.00 € - Palchi Teatro Rozzi"
+    },
+    {
+        "Titolo evento": "Tornano i concerti di Micat In Vertice",
+        "Descrizione di Virgilio.it": "Edizione 2024/2025\n\nIl programma della Stagione 2024/2025 proporrà 14 concerti, dal 22 novembre al 9 maggio 2025, negli splendidi Teatri di Siena, grazie alla rinnovata sinergia tra l’Accademia Chigiana e il Comune di Siena, a cui si aggiunge il concerto del 23 dicembre nella magnifica cornice della Cattedrale di Siena. Protagonisti grandi star internazionali, giovani talenti e nuove promesse della scena musicale internazionale, che si alterneranno in un cartellone che offrirà al pubblico e agli abbonati della Stagione concertistica dell’Accademia Musicale Chigiana progetti esclusivi e serate che dalla grande musica del barocco spaziano fino alle nuove sonorità. Per il programma dettagliato consulta il sit ufficiale della manifestazione.",
+        "Descrizione di Groq": "\"Preparatevi a un'esperienza indimenticabile con il ritorno dei concerti di Micat In Vertice al Teatro dei Rozzi di Siena il 04 Apr. Scegliete la magica atmosfera della Cattedrale con ingresso libero o lasciatevi incantare dai posti a sedere del Teatro Rozzi o dai palchi, a partire da soli 18.00 €. Non perdete questa opportunità unica!\"",
+        "Data": "4/4",
+        "Orario": "21:00",
+        "Luogo": "Teatro dei Rozzi\nPiazza dell' Indipendenza 15,\n53100 SIENA (SI)",
+        "Prezzo": "Ingresso Libero Cattedrale\n25.00 € - Intero Teatro Rozzi\n18.00 € - Palchi Teatro Rozzi"
+    },
+    {
+        "Titolo evento": "Tornano i concerti di Micat In Vertice",
+        "Descrizione di Virgilio.it": "Edizione 2024/2025\n\nIl programma della Stagione 2024/2025 proporrà 14 concerti, dal 22 novembre al 9 maggio 2025, negli splendidi Teatri di Siena, grazie alla rinnovata sinergia tra l’Accademia Chigiana e il Comune di Siena, a cui si aggiunge il concerto del 23 dicembre nella magnifica cornice della Cattedrale di Siena. Protagonisti grandi star internazionali, giovani talenti e nuove promesse della scena musicale internazionale, che si alterneranno in un cartellone che offrirà al pubblico e agli abbonati della Stagione concertistica dell’Accademia Musicale Chigiana progetti esclusivi e serate che dalla grande musica del barocco spaziano fino alle nuove sonorità. Per il programma dettagliato consulta il sit ufficiale della manifestazione.",
+        "Descrizione di Groq": "\"Preparatevi a un'esperienza musicale indimenticabile con il ritorno dei concerti di Micat In Vertice al Teatro dei Rozzi di Siena. Lasciatevi trasportare da suoni melodiosi all'interno di una suggestiva cattedrale o scegliete un palco esclusivo nel teatro. Il 17 aprile, godetevi una serata di pura magia con il prezzo del biglietto che vale ogni nota.\"",
+        "Data": "17/4",
+        "Orario": "21:00",
+        "Luogo": "Teatro dei Rozzi\nPiazza dell' Indipendenza 15,\n53100 SIENA (SI)",
+        "Prezzo": "Ingresso Libero Cattedrale\n25.00 € - Intero Teatro Rozzi\n18.00 € - Palchi Teatro Rozzi"
+    },
+    {
+        "Titolo evento": "Tornano i concerti di Micat In Vertice",
+        "Descrizione di Virgilio.it": "Edizione 2024/2025\n\nIl programma della Stagione 2024/2025 proporrà 14 concerti, dal 22 novembre al 9 maggio 2025, negli splendidi Teatri di Siena, grazie alla rinnovata sinergia tra l’Accademia Chigiana e il Comune di Siena, a cui si aggiunge il concerto del 23 dicembre nella magnifica cornice della Cattedrale di Siena. Protagonisti grandi star internazionali, giovani talenti e nuove promesse della scena musicale internazionale, che si alterneranno in un cartellone che offrirà al pubblico e agli abbonati della Stagione concertistica dell’Accademia Musicale Chigiana progetti esclusivi e serate che dalla grande musica del barocco spaziano fino alle nuove sonorità. Per il programma dettagliato consulta il sit ufficiale della manifestazione.",
+        "Descrizione di Groq": "\"Preparati a un'esperienza musicale indimenticabile! Il pluripremiato gruppo Micat In Vertice ritorna sul palco del Teatro dei Rozzi a Siena il 9 Maggio. Goditi la maestosa acustica della Cattedrale con ingresso gratuito o scegli un posto in teatro o sui palchi per una serata all'insegna della grande musica live. Non mancare!\"",
+        "Data": "9/5",
+        "Orario": "21:00",
+        "Luogo": "Teatro dei Rozzi\nPiazza dell' Indipendenza 15,\n53100 SIENA (SI)",
+        "Prezzo": "Ingresso Libero Cattedrale\n25.00 € - Intero Teatro Rozzi\n18.00 € - Palchi Teatro Rozzi"
+    },
+    {
+        "Titolo evento": "Claudio Baglioni ritorna in concerto a teatro",
+        "Descrizione di Virgilio.it": "Piano di Volo Solo Tris\n\nDopo il successo dei tour “Solo” e “SoloBIS”, Claudio Baglioni riprende il suo percorso concertistico assolo con “Piano di Volo soloTRIS”, il terzo, nuovo e perfezionato capitolo dell’esperienza musicale dal vivo nei teatri lirici.\n\n \n\n“Piano di Volo” è un concerto-racconto del cantautore, unico protagonista sulla scena. Un’impresa innovativa e sempre rinnovata, una trasvolata solitaria in cui l’interprete, il compositore, il musicista e l’intrattenitore s’incontrano tra musica e invenzione, parola e narrazione, storia e sperimentazione, rigore e improvvisazione.\n\n \n\nLe canzoni, nelle versioni solistiche, ritornano nella dimensione essenziale e nuda nella quale sono state create e costruite dall’autore - quando erano ancora soltanto “sue” - e, subito dopo, cercano atmosfere inedite, itinerari sconosciuti e luoghi stupefacenti verso cui andare. Ogni brano è un tragitto, una rotta, un’andatura sorprendente. \n\n \n\nIn questo “concerto ravvicinato del terzo tipo”, classico e futuribile, nel medesimo istante, Claudio Baglioni condividerà, a strettissimo contatto, con gli spettatori, le opere e le composizioni più preziose del suo repertorio e le vicende della sua vita artistica e personale, come a trovarsi e giocare in un popolato cortile a cielo coperto, nell’ineguagliabile scenario, segreto e magnificente, dei grandi, prestigiosi e bellissimi teatri italiani di tradizione. \n\n \n\nQuesti appuntamenti rappresenteranno il culmine della suggestione e della prossimità di un incontro particolare in cui la vicinanza, la confidenza e la complicità sono totali così che ciascun gesto, ciascuno sguardo, ciascuna nota possa contribuire a far vivere, al pubblico presente, un’avventura particolare, affascinante e, forse, indimenticabile.",
+        "Descrizione di Groq": "\"Rivivi la magia delle ballad di Claudio Baglioni in un'intima cornice teatrale allo Spazio Bonci. Non perdere l'opportunità di ascoltare i suoi successi dal vivo in questo evento da non dimenticare!\"",
+        "Data": "Dal 29/4 al 1/5",
+        "Orario": "21:00",
+        "Luogo": "Spazio Bonci\nVicolo Brandini 1,\n52025 MONTEVARCHI (AR)",
+        "Prezzo": "Prezzo non disponibile"
+    }     
+    ]
