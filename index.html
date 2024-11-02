@@ -12,29 +12,55 @@
     <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@300;400;600&display=swap" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="static/styles.css">
+    <script src="static/script.js"></script>
+
+    <!-- PyScript CSS -->
+    <link rel="stylesheet" href="https://pyscript.net/releases/2024.10.2/core.css">
+    <script type="module" src="https://pyscript.net/releases/2024.10.2/core.js"></script>
 </head>
 <body>
     <h1>Calendario Eventi a Siena</h1>
     
-    <!-- Filter Options -->
     <div class="filters">
         <label for="nameFilter">Cerca per Nome Evento:</label>
         <input type="text" id="nameFilter" placeholder="Inserisci il nome dell'evento...">
+        <button id="updateEvents">Aggiorna Eventi</button>
     </div>
 
-    <!-- FullCalendar element -->
     <div id="calendar"></div>
-
-    <!-- FullCalendar JS -->
-    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.js"></script>
     
-    <!-- Your JavaScript -->
-    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fullcalendar@5.11.3/main.min.js"></script>
+    <script>
+        document.getElementById("updateEvents").addEventListener("click", async function() {
+            try {
+                const response = await fetch("http://127.0.0.1:5000/update-events", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" }
+                });
+                const events = await response.json();
+                displayEvents(events);  // Update the calendar with new events
+            } catch (error) {
+                console.error("Error updating events:", error);
+            }
+        });
+
+        function displayEvents(events) {
+            // Code to update the calendar with new events
+            events.forEach(event => {
+                console.log(event.title, event.date, event.location);  // Replace with actual rendering
+            });
+        }
+    </script>
+
+    <py-script>
+        src="scraping_selenium.py"
+    </py-script>
 
     <footer>
-        <p>Disclaimer: questo progetto è realizzato a scopo puramente didattico e senza alcuna finalità commerciale. Tutte le informazioni presenti, inclusi nomi, descrizioni e contenuti associati agli eventi, sono utilizzate esclusivamente per fini di apprendimento e sperimentazione. I diritti relativi a marchi, contenuti e dati appartengono ai rispettivi proprietari. Non si intende violare alcuna licenza o diritto d'autore.</p>
+        <div>
+            <p>Disclaimer: questo progetto è realizzato a scopo puramente didattico e senza alcuna finalità commerciale. Tutte le informazioni presenti, inclusi nomi, descrizioni e contenuti associati agli eventi, sono utilizzate esclusivamente per fini di apprendimento e sperimentazione. I diritti relativi a marchi, contenuti e dati appartengono ai rispettivi proprietari. Non si intende violare alcuna licenza o diritto d'autore.</p>
+        </div>
     </footer>
-
 </body>
 </html>
